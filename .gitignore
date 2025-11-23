@@ -1,0 +1,5 @@
+# exclude any compiled C files
+*
+
+!/**/
+!*.*
